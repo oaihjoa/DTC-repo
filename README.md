@@ -1,2 +1,2 @@
 # DTC-repo
-the code repo for DTC
+Submitted for review. The code will be made publicly available upon acceptance.
